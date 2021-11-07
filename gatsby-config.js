@@ -13,7 +13,7 @@ module.exports = {
     siteUrl: `https://tunafish.sandwich.industries`,
     siteDescription: `A personal landing page`,
     siteLanguage: `en`,
-    // siteImage: `/banner.jpg`,
+    siteImage: `/banner.jpg`,
     author: `natecostello`,
   },
   plugins: [
