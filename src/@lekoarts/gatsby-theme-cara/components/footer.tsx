@@ -34,9 +34,9 @@ const Footer = () => {
           aria-label="Link to the sites's GitHub repository"
           href="https://github.com/natecostello/landing-page"
         >
-          Github repo for this site,
+          Repo.
         </Link>
-        <div sx={{ mx: 1 }}>a lightly modified </div>
+        <div sx={{ mx: 1 }}></div>
         {` `}
         <Link
           aria-label="Link to the theme's Github repository"
