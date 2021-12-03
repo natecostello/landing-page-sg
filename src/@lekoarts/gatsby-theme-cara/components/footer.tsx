@@ -32,7 +32,7 @@ const Footer = () => {
         {` `}
         <Link
           aria-label="Link to the sites's GitHub repository"
-          href="https://github.com/natecostello/landing-page"
+          href="https://github.com/natecostello/landing-page-sg"
         >
           Repo.
         </Link>
