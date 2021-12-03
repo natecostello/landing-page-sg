@@ -7,14 +7,14 @@ module.exports = {
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-cara/gatsby-config.js
-    siteTitle: `TF.S.I`,
-    siteTitleAlt: `tunafish.sandwich.industries`,
-    siteHeadline: `tunafish.sandwich.industries`,
-    siteUrl: `https://tunafish.sandwich.industries`,
+    siteTitle: `JF.S.I`,
+    siteTitleAlt: `jellyfish.sandwich.industries`,
+    siteHeadline: `jellyfish.sandwich.industries`,
+    siteUrl: `https://jellyfish.sandwich.industries`,
     siteDescription: `A personal landing page`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
-    author: `natecostello`,
+    author: `sophia`,
   },
   plugins: [
     {
